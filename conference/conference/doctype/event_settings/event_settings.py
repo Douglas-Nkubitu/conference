@@ -4,5 +4,5 @@
 # import frappe
 from frappe.website.website_generator import WebsiteGenerator
 
-class EventsSetup(Document):
+class EventSettings(WebsiteGenerator):
 	pass

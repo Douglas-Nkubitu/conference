@@ -2,8 +2,8 @@
  "actions": [],
  "allow_guest_to_view": 1,
  "allow_rename": 1,
- "autoname": "MoI_#####",
- "creation": "2023-05-31 10:59:02.352692",
+ "autoname": "CON_#####",
+ "creation": "2023-05-31 11:30:16.497921",
  "default_view": "List",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -31,7 +31,6 @@
   "is_published",
   "column_break_eai19",
   "route",
-  "amended_from",
   "amended_from"
  ],
  "fields": [
@@ -156,16 +155,7 @@
    "fieldtype": "Link",
    "label": "Amended From",
    "no_copy": 1,
-   "options": "Event Setup",
-   "print_hide": 1,
-   "read_only": 1
-  },
-  {
-   "fieldname": "amended_from",
-   "fieldtype": "Link",
-   "label": "Amended From",
-   "no_copy": 1,
-   "options": "Events Setup",
+   "options": "Event Settings",
    "print_hide": 1,
    "read_only": 1
   }
@@ -174,10 +164,10 @@
  "is_published_field": "is_published",
  "is_submittable": 1,
  "links": [],
- "modified": "2023-05-31 10:59:02.352692",
+ "modified": "2023-05-31 11:35:40.618390",
  "modified_by": "Administrator",
  "module": "Conference",
- "name": "Events Setup",
+ "name": "Event Settings",
  "naming_rule": "Expression (old style)",
  "owner": "Administrator",
  "permissions": [
@@ -198,5 +188,6 @@
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [],
- "title_field": "subject"
+ "title_field": "subject",
+ "track_changes": 1
 }
