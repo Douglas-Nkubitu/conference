@@ -1,0 +1,49 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"27aSRurpfT\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px;\\\"><b>Shortcuts</b></span>\",\"col\":12}},{\"id\":\"65btF-dhFf\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Event Settings\",\"col\":3}},{\"id\":\"DAF_Il41Zy\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Registrations\",\"col\":3}},{\"id\":\"byLiyxuYMO\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sponsors\",\"col\":3}}]",
+ "creation": "2023-05-31 10:55:03.288077",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "website",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Conference",
+ "links": [],
+ "modified": "2023-05-31 13:57:35.983926",
+ "modified_by": "Administrator",
+ "module": "Conference",
+ "name": "Conference",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 31.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Event Settings",
+   "link_to": "Event Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Sponsors",
+   "link_to": "Sponsor",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Registrations",
+   "link_to": "Event Registration",
+   "type": "DocType"
+  }
+ ],
+ "title": "Conference"
+}
